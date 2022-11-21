@@ -1,1 +1,1 @@
-<?php echo Syedubaid123;
+<?php echo Syedubaid;
